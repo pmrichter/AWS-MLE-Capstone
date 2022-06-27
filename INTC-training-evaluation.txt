@@ -1,0 +1,81 @@
+===Input parameters===
+Ticker: INTC
+Learning rate: 0.01
+Neutral range: 0.0005
+Sequence size: 50
+Batch size: 100
+LSTM hidden dimensions: 30
+Training epochs: 100
+======================
+Processing 1d return for ticker INTC.
+epoch 0: train - 0.5915, val: - 0.0113
+epoch 10: train - 0.1012, val: - 0.0099
+epoch 20: train - 0.1019, val: - 0.0098
+epoch 30: train - 0.1013, val: - 0.0098
+epoch 40: train - 0.1008, val: - 0.0098
+epoch 50: train - 0.1005, val: - 0.0098
+epoch 60: train - 0.1003, val: - 0.0098
+epoch 70: train - 0.1001, val: - 0.0098
+epoch 80: train - 0.0999, val: - 0.0098
+epoch 90: train - 0.0997, val: - 0.0098
+Processing 5d return for ticker INTC.
+epoch 0: train - 1.252, val: - 0.0267
+epoch 10: train - 0.1093, val: - 0.0113
+epoch 20: train - 0.1019, val: - 0.0103
+epoch 30: train - 0.0959, val: - 0.0097
+epoch 40: train - 0.0819, val: - 0.0083
+epoch 50: train - 0.0844, val: - 0.0081
+epoch 60: train - 0.0781, val: - 0.0074
+epoch 70: train - 0.0769, val: - 0.0075
+epoch 80: train - 0.079, val: - 0.0076
+epoch 90: train - 0.0766, val: - 0.0071
+Processing 20d return for ticker INTC.
+epoch 0: train - 0.9907, val: - 0.0278
+epoch 10: train - 0.0529, val: - 0.0056
+epoch 20: train - 0.0484, val: - 0.0052
+epoch 30: train - 0.0486, val: - 0.0052
+epoch 40: train - 0.0488, val: - 0.0052
+epoch 50: train - 0.0488, val: - 0.0052
+epoch 60: train - 0.0488, val: - 0.0052
+epoch 70: train - 0.0488, val: - 0.0052
+epoch 80: train - 0.0484, val: - 0.0052
+epoch 90: train - 0.0482, val: - 0.0052
+
+EVALUATION OF LSTM PREDICTIONS:
+Number of predictions: 400
+Number of correct predictions: 177
+Recommendation accuracy: 0.4425
+Number of BUY recommendations: 210
+Number of NEUTRAL recommendations: 61
+Number of SELL recommendations: 129
+Number of correct BUY recommendations: 109
+Number of correct SELL recommendations: 66
+Number of correct NEUTRAL recommendations: 2
+Number of incorrect BUY recommendations (where NEUTRAL would be correct): 3
+Number of incorrect BUY recommendations (where SELL would be correct): 98
+Number of incorrect SELL recommendations (where NEUTRAL would be correct): 8
+Number of incorrect SELL recommendations (where BUY would be correct): 55
+Number of incorrect NEUTRAL recommendations (where BUY would be correct): 34
+Number of incorrect NEUTRAL recommendations (where SELL would be correct): 25
+profit/loss=-18.77724582189282%
+
+EVALUATION OF 18 DAY SIMPLE MOVING AVERAGE PREDICTIONS (BENCHMARK):
+Number of predictions: 382
+Number of correct predictions: 178
+Recommendation accuracy: 0.46596858638743455
+Number of BUY recommendations: 189
+Number of NEUTRAL recommendations: 55
+Number of SELL recommendations: 138
+Number of correct BUY recommendations: 102
+Number of correct SELL recommendations: 73
+Number of correct NEUTRAL recommendations: 3
+Number of incorrect BUY recommendations (where NEUTRAL would be correct): 6
+Number of incorrect BUY recommendations (where SELL would be correct): 81
+Number of incorrect SELL recommendations (where NEUTRAL would be correct): 3
+Number of incorrect SELL recommendations (where BUY would be correct): 62
+Number of incorrect NEUTRAL recommendations (where BUY would be correct): 27
+Number of incorrect NEUTRAL recommendations (where SELL would be correct): 25
+profit/loss=278.5092352763576%
+
+CONCLUSION:
+SMA18 beats LSTM for ticker INTC.

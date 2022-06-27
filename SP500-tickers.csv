@@ -1,0 +1,504 @@
+﻿TICKER,NAME,SECTOR,DATE_ADDED
+AMD,AMD,Information Technology,04.03.57
+ED,Con Edison,Utilities,04.03.57
+GLW,Corning,Information Technology,04.03.57
+DHR,Danaher,Health Care,04.03.57
+DRI,Darden,Consumer Discretionary,04.03.57
+D,Dominion Energy,Utilities,04.03.57
+ETN,Eaton,Industrials,04.03.57
+FITB,Fifth Third Bank,Financials,04.03.57
+FE,FirstEnergy,Utilities,04.03.57
+BEN,Franklin Templeton,Financials,04.03.57
+FCX,Freeport-McMoRan,Materials,04.03.57
+GE,GE,Industrials,04.03.57
+HUM,Humana,Health Care,04.03.57
+HBAN,Huntington National Bank,Financials,04.03.57
+KLAC,KLA,Information Technology,04.03.57
+L,Loews Corporation,Financials,04.03.57
+MAR,Marriott International,Consumer Discretionary,04.03.57
+MCK,McKesson,Health Care,04.03.57
+MET,MetLife,Financials,04.03.57
+MCO,Moody's,Financials,04.03.57
+MS,Morgan Stanley,Financials,04.03.57
+MSI,Motorola Solutions,Information Technology,04.03.57
+NI,NiSource,Utilities,04.03.57
+NTRS,Northern Trust,Financials,04.03.57
+OMC,Omnicom Group,Communication Services,04.03.57
+PARA,Paramount,Communication Services,04.03.57
+PAYX,Paychex,Information Technology,04.03.57
+PNW,Pinnacle West,Utilities,04.03.57
+PPL,PPL,Utilities,04.03.57
+QCOM,Qualcomm,Information Technology,04.03.57
+RTX,Raytheon Technologies,Industrials,04.03.57
+ROK,Rockwell Automation,Industrials,04.03.57
+SPGI,S&P Global,Financials,04.03.57
+SRE,Sempra,Utilities,04.03.57
+STT,State Street,Financials,04.03.57
+TROW,T. Rowe Price,Financials,04.03.57
+TPR,Tapestry,Consumer Discretionary,04.03.57
+TXN,Texas Instruments,Information Technology,04.03.57
+USB,U.S. Bank,Financials,04.03.57
+VLO,Valero,Energy,04.03.57
+WM,Waste Management,Industrials,04.03.57
+WAT,Waters,Health Care,04.03.57
+WRK,WestRock,Materials,04.03.57
+WY,Weyerhaeuser,Real Estate,04.03.57
+WHR,Whirlpool,Consumer Discretionary,04.03.57
+MO,Altria,Consumer Staples,04.03.57
+AEP,American Electric Power,Utilities,04.03.57
+BA,Boeing,Industrials,04.03.57
+BMY,Bristol Myers Squibb,Health Care,04.03.57
+CPB,Campbell's,Consumer Staples,04.03.57
+CAT,Caterpillar,Industrials,04.03.57
+CVX,Chevron,Energy,04.03.57
+KO,Coca-Cola,Consumer Staples,04.03.57
+CL,Colgate-Palmolive,Consumer Staples,04.03.57
+COP,ConocoPhillips,Energy,04.03.57
+CVS,CVS Health,Health Care,04.03.57
+DE,Deere & Co.,Industrials,04.03.57
+DTE,DTE,Utilities,04.03.57
+EIX,Edison International,Utilities,04.03.57
+ETR,Entergy,Utilities,04.03.57
+EXC,Exelon,Utilities,04.03.57
+XOM,ExxonMobil,Energy,04.03.57
+F,Ford,Consumer Discretionary,04.03.57
+GD,General Dynamics,Industrials,04.03.57
+HAL,Halliburton,Energy,04.03.57
+HIG,Hartford (The),Financials,04.03.57
+HSY,Hershey's,Consumer Staples,04.03.57
+IBM,IBM,Information Technology,04.03.57
+IP,International Paper,Materials,04.03.57
+KMB,Kimberly-Clark,Consumer Staples,04.03.57
+KR,Kroger,Consumer Staples,04.03.57
+MRK,Merck,Health Care,04.03.57
+NSC,Norfolk Southern,Industrials,04.03.57
+PEP,PepsiCo,Consumer Staples,04.03.57
+PFE,Pfizer,Health Care,04.03.57
+PPG,PPG Industries,Materials,04.03.57
+PG,Procter & Gamble,Consumer Staples,04.03.57
+PEG,PSEG,Utilities,04.03.57
+SEE,Sealed Air,Materials,04.03.57
+SO,Southern Company,Utilities,04.03.57
+UNP,Union Pacific,Industrials,04.03.57
+XEL,Xcel Energy,Utilities,04.03.57
+ABT,Abbott,Health Care,31.03.64
+HON,Honeywell,Industrials,31.03.64
+HWM,Howmet Aerospace,Industrials,31.03.64
+SHW,Sherwin-Williams,Materials,30.06.64
+CMI,Cummins,Industrials,31.03.65
+EMR,Emerson,Industrials,31.03.65
+SLB,Schlumberger,Energy,31.03.65
+CSX,CSX,Industrials,30.09.67
+CLX,Clorox,Consumer Staples,31.03.69
+GIS,General Mills,Consumer Staples,31.03.69
+NEM,Newmont,Materials,30.06.69
+MCD,McDonald's,Consumer Discretionary,30.06.70
+LLY,Lilly,Health Care,31.12.70
+BAX,Baxter,Health Care,30.09.72
+BDX,Becton Dickinson,Health Care,30.09.72
+JNJ,Johnson & Johnson,Health Care,30.06.73
+GPC,Genuine Parts,Consumer Discretionary,31.12.73
+HPQ,HP,Information Technology,31.12.74
+WMB,Williams,Energy,31.03.75
+JPM,JPMorgan Chase,Financials,30.06.75
+IFF,International Flavors & Fragrances,Materials,31.03.76
+AXP,American Express,Financials,30.06.76
+BAC,Bank of America,Financials,30.06.76
+CI,Cigna,Health Care,30.06.76
+DIS,Disney,Communication Services,30.06.76
+DUK,Duke Energy,Utilities,30.06.76
+LNC,Lincoln Financial,Financials,30.06.76
+TAP,Molson Coors,Consumer Staples,30.06.76
+NEE,NextEra Energy,Utilities,30.06.76
+WFC,Wells Fargo,Financials,30.06.76
+MMM,3M,Industrials,09.08.76
+INTC,Intel,Information Technology,31.12.76
+TGT,Target,Consumer Discretionary,31.12.76
+TXT,Textron,Industrials,31.12.78
+VFC,VF Corporation,Consumer Discretionary,30.06.79
+WBA,Walgreens Boots Alliance,Consumer Staples,31.12.79
+AIG,AIG,Financials,31.03.80
+FDX,FedEx,Industrials,31.12.80
+PCAR,Paccar,Industrials,31.12.80
+ADP,ADP,Information Technology,31.03.81
+GWW,Grainger,Industrials,30.06.81
+MAS,Masco,Industrials,30.06.81
+ADM,ADM,Consumer Staples,29.07.81
+WMT,Walmart,Consumer Staples,31.08.82
+SNA,Snap-on,Industrials,30.09.82
+SWK,Stanley Black & Decker,Industrials,30.09.82
+BF.B,Brown–Forman,Consumer Staples,31.10.82
+AAPL,Apple,Information Technology,30.11.82
+OXY,Occidental Petroleum,Energy,31.12.82
+CAG,Conagra Brands,Consumer Staples,31.08.83
+BBWI,Bath & Body Works,Consumer Discretionary,30.09.83
+T,AT&T,Communication Services,1983-11-30 (1957-03-04)
+VZ,Verizon,Communication Services,30.11.83
+LOW,Lowe's,Consumer Discretionary,29.02.84
+PHM,PulteGroup,Consumer Discretionary,30.04.84
+HES,Hess,Energy,31.05.84
+LMT,Lockheed Martin,Industrials,31.07.84
+HAS,Hasbro,Consumer Discretionary,30.09.84
+BALL,Ball,Materials,31.10.84
+APD,Air Products,Materials,30.04.85
+NUE,Nucor,Materials,30.04.85
+PKI,PerkinElmer,Health Care,31.05.85
+NOC,Northrop Grumman,Industrials,30.06.85
+CNP,CenterPoint Energy,Utilities,31.07.85
+TJX,TJX Companies,Consumer Discretionary,30.09.85
+DOV,Dover,Industrials,31.10.85
+PH,Parker,Industrials,30.11.85
+ITW,Illinois Tool Works,Industrials,28.02.86
+MDT,Medtronic,Health Care,31.10.86
+SYY,Sysco,Consumer Staples,31.12.86
+MMC,Marsh & McLennan,Financials,31.08.87
+AVY,Avery Dennison,Materials,31.12.87
+HD,Home Depot,Consumer Discretionary,31.03.88
+PNC,PNC Financial Services,Financials,30.04.88
+C,Citigroup,Financials,31.05.88
+NKE,Nike,Consumer Discretionary,30.11.88
+ECL,Ecolab,Materials,31.01.89
+GL,Globe Life,Financials,30.04.89
+NWL,Newell Brands,Consumer Discretionary,30.04.89
+ORCL,Oracle,Information Technology,31.08.89
+K,Kellogg's,Consumer Staples,11.09.89
+ADSK,Autodesk,Information Technology,01.12.89
+MRO,Marathon Oil,Energy,01.05.91
+AEE,Ameren,Utilities,19.09.91
+AMGN,Amgen,Health Care,02.01.92
+LIN,Linde,Materials,01.07.92
+IPG,Interpublic Group,Communication Services,01.10.92
+COST,Costco,Consumer Staples,01.10.93
+CSCO,Cisco,Information Technology,01.12.93
+EMN,Eastman,Materials,01.01.94
+KEY,KeyCorp,Financials,01.03.94
+MSFT,Microsoft,Information Technology,01.06.94
+LUV,Southwest Airlines,Industrials,01.07.94
+UNH,UnitedHealth Group,Health Care,01.07.94
+MU,Micron,Information Technology,27.09.94
+BSX,Boston Scientific,Health Care,24.02.95
+AMAT,Applied Materials,Information Technology,16.03.95
+BK,BNY Mellon,Financials,31.03.95
+ALL,Allstate,Financials,13.07.95
+CMA,Comerica,Financials,01.12.95
+AON,Aon,Financials,23.04.96
+AZO,AutoZone,Consumer Discretionary,02.01.97
+ADBE,Adobe,Information Technology,05.05.97
+CAH,Cardinal Health,Health Care,27.05.97
+SCHW,Charles Schwab,Financials,02.06.97
+EFX,Equifax,Industrials,19.06.97
+APA,APA Corporation,Energy,28.07.97
+PGR,Progressive,Financials,04.08.97
+YUM,Yum! Brands,Consumer Discretionary,06.10.97
+TFC,Truist,Financials,04.12.97
+CINF,Cincinnati Financial,Financials,18.12.97
+COF,Capital One,Financials,01.07.98
+RF,Regions,Financials,28.08.98
+AES,AES,Utilities,02.10.98
+CCL,Carnival,Consumer Discretionary,22.12.98
+LUMN,Lumen,Communication Services,25.03.99
+CMS,CMS Energy,Utilities,03.05.99
+AFL,Aflac,Financials,28.05.99
+NTAP,NetApp,Information Technology,25.06.99
+BBY,Best Buy,Consumer Discretionary,29.06.99
+VMC,Vulcan Materials,Materials,30.06.99
+ADI,Analog Devices,Information Technology,12.10.99
+CTXS,Citrix,Information Technology,01.12.99
+A,Agilent Technologies,Health Care,05.06.00
+SBUX,Starbucks,Consumer Discretionary,07.06.00
+DVN,Devon,Energy,30.08.00
+EOG,EOG Resources,Energy,02.11.00
+INTU,Intuit,Information Technology,05.12.00
+RHI,Robert Half,Industrials,05.12.00
+SYK,Stryker,Health Care,12.12.00
+CTAS,Cintas,Industrials,01.03.01
+FISV,Fiserv,Information Technology,02.04.01
+ZION,Zions Bancorp,Financials,22.06.01
+ZBH,Zimmer Biomet,Health Care,07.08.01
+ABC,AmerisourceBergen,Health Care,30.08.01
+NVDA,Nvidia,Information Technology,30.11.01
+EQR,Equity Residential,Real Estate,03.12.01
+SPG,Simon,Real Estate,26.06.02
+EBAY,eBay,Consumer Discretionary,22.07.02
+EA,Electronic Arts,Communication Services,22.07.02
+GS,Goldman Sachs,Financials,22.07.02
+PFG,Principal,Financials,22.07.02
+PRU,Prudential,Financials,22.07.02
+UPS,United Parcel Service,Industrials,22.07.02
+ANTM,Anthem,Health Care,25.07.02
+TRV,Travelers,Financials,21.08.02
+CMCSA,Comcast,Communication Services,19.11.02
+DGX,Quest Diagnostics,Health Care,12.12.02
+MKC,McCormick,Consumer Staples,20.03.03
+NLOK,NortonLifeLock,Information Technology,25.03.03
+PLD,Prologis,Real Estate,17.07.03
+BIIB,Biogen,Health Care,13.11.03
+MTB,M&T Bank,Financials,23.02.04
+VTRS,Viatris,Health Care,23.04.04
+GILD,Gilead,Health Care,01.07.04
+TMO,Thermo Fisher Scientific,Health Care,03.08.04
+LH,LabCorp,Health Care,01.11.04
+VNO,Vornado Realty Trust,Real Estate,2005
+DHI,D.R. Horton,Consumer Discretionary,22.06.05
+STZ,Constellation Brands,Consumer Staples,01.07.05
+TSN,Tyson,Consumer Staples,10.08.05
+PSA,Public Storage,Real Estate,19.08.05
+AMP,Ameriprise Financial,Financials,03.10.05
+LEN,Lennar,Consumer Discretionary,04.10.05
+AMZN,Amazon,Consumer Discretionary,18.11.05
+EL,Estée Lauder Companies,Consumer Staples,05.01.06
+VRSN,Verisign,Information Technology,01.02.06
+GOOG,Alphabet (Class C),Communication Services,03.04.06
+BXP,Boston Properties,Real Estate,03.04.06
+KIM,Kimco Realty,Real Estate,04.04.06
+JNPR,Juniper Networks,Information Technology,02.06.06
+CME,CME Group,Financials,11.08.06
+CBRE,CBRE,Real Estate,10.11.06
+FIS,FIS,Information Technology,10.11.06
+CTSH,Cognizant,Information Technology,17.11.06
+AVB,AvalonBay Communities,Real Estate,10.01.07
+RL,Ralph Lauren,Consumer Discretionary,02.02.07
+CHRW,C.H. Robinson,Industrials,02.03.07
+HST,Host Hotels & Resorts,Real Estate,20.03.07
+AIZ,Assurant,Financials,10.04.07
+DFS,Discover,Financials,02.07.07
+AKAM,Akamai,Information Technology,12.07.07
+MCHP,Microchip,Information Technology,07.09.07
+ICE,Intercontinental Exchange,Financials,26.09.07
+EXPE,Expedia Group,Consumer Discretionary,02.10.07
+EXPD,Expeditors,Industrials,10.10.07
+J,Jacobs,Industrials,26.10.07
+AMT,American Tower,Real Estate,19.11.07
+PEAK,Healthpeak,Real Estate,31.03.08
+PM,Philip Morris International,Consumer Staples,31.03.08
+ISRG,Intuitive Surgical,Health Care,02.06.08
+CTRA,Coterra,Energy,23.06.08
+MA,Mastercard,Information Technology,18.07.08
+DVA,DaVita,Health Care,31.07.08
+IVZ,Invesco,Financials,21.08.08
+CF,CF Industries,Materials,27.08.08
+FAST,Fastenal,Industrials,15.09.08
+CRM,Salesforce,Information Technology,15.09.08
+LHX,L3Harris,Industrials,22.09.08
+PXD,Pioneer Natural Resources,Energy,24.09.08
+APH,Amphenol,Information Technology,30.09.08
+NDAQ,Nasdaq,Financials,22.10.08
+WEC,WEC Energy Group,Utilities,31.10.08
+SJM,Smucker,Consumer Staples,06.11.08
+XRAY,Dentsply Sirona,Health Care,14.11.08
+WYNN,Wynn Resorts,Consumer Discretionary,14.11.08
+RSG,Republic Services,Industrials,05.12.08
+ES,Eversource,Utilities,2009
+IRM,Iron Mountain,Real Estate,06.01.09
+WELL,Welltower,Real Estate,30.01.09
+HRL,Hormel,Consumer Staples,04.03.09
+VTR,Ventas,Real Estate,04.03.09
+ORLY,O'Reilly Automotive,Consumer Discretionary,27.03.09
+PWR,Quanta,Industrials,01.07.09
+WDC,Western Digital,Information Technology,01.07.09
+FMC,FMC,Materials,19.08.09
+BKNG,Booking Holdings,Consumer Discretionary,06.11.09
+ROST,Ross,Consumer Discretionary,21.12.09
+V,Visa,Information Technology,21.12.09
+ROP,Roper,Industrials,23.12.09
+NRG,NRG Energy,Utilities,29.01.10
+OKE,Oneok,Energy,15.03.10
+KMX,CarMax,Consumer Discretionary,28.06.10
+CB,Chubb,Financials,15.07.10
+JCI,Johnson Controls,Industrials,27.08.10
+TT,Trane Technologies,Industrials,17.11.10
+FFIV,F5,Information Technology,20.12.10
+NFLX,Netflix,Communication Services,20.12.10
+EW,Edwards Lifesciences,Health Care,01.04.11
+BLK,BlackRock,Financials,04.04.11
+CMG,Chipotle Mexican Grill,Consumer Discretionary,28.04.11
+MPC,Marathon Petroleum,Energy,01.07.11
+ACN,Accenture,Information Technology,06.07.11
+MOS,Mosaic,Materials,26.09.11
+TEL,TE Connectivity,Information Technology,17.10.11
+XYL,Xylem,Industrials,01.11.11
+BWA,BorgWarner,Consumer Discretionary,19.12.11
+DLTR,Dollar Tree,Consumer Discretionary,19.12.11
+CCI,Crown Castle,Real Estate,14.03.12
+PSX,Phillips 66,Energy,01.05.12
+KMI,Kinder Morgan,Energy,25.05.12
+MNST,Monster Beverage,Consumer Staples,28.06.12
+LRCX,Lam Research,Information Technology,29.06.12
+STX,Seagate,Information Technology,02.07.12
+LYB,LyondellBasell,Materials,05.09.12
+PNR,Pentair,Industrials,01.10.12
+MDLZ,Mondelez International,Consumer Staples,02.10.12
+DG,Dollar General,Consumer Discretionary,03.12.12
+GRMN,Garmin,Consumer Discretionary,12.12.12
+APTV,Aptiv,Consumer Discretionary,24.12.12
+ABBV,AbbVie,Health Care,31.12.12
+PVH,PVH,Consumer Discretionary,15.02.13
+REGN,Regeneron,Health Care,01.05.13
+GM,GM,Consumer Discretionary,06.06.13
+ZTS,Zoetis,Health Care,21.06.13
+FOXA,Fox Corporation (Class A),Communication Services,01.07.13
+NLSN,Nielsen,Industrials,09.07.13
+NWSA,News Corp (Class A),Communication Services,01.08.13
+DAL,Delta Air Lines,Industrials,11.09.13
+AME,Ametek,Industrials,23.09.13
+VRTX,Vertex,Health Care,23.09.13
+ALLE,Allegion,Industrials,02.12.13
+META,Meta,Communication Services,23.12.13
+MHK,Mohawk Industries,Consumer Discretionary,23.12.13
+TSCO,Tractor Supply,Consumer Discretionary,24.01.14
+ESS,Essex,Real Estate,02.04.14
+GOOGL,Alphabet (Class A),Communication Services,03.04.14
+UAA,Under Armour (Class A),Consumer Discretionary,01.05.14
+AVGO,Broadcom,Information Technology,08.05.14
+MLM,Martin Marietta,Materials,02.07.14
+URI,United Rentals,Industrials,20.09.14
+UHS,Universal Health Services,Health Care,20.09.14
+RCL,Royal Caribbean Group,Consumer Discretionary,05.12.14
+HCA,HCA Healthcare,Health Care,27.01.15
+SWKS,Skyworks,Information Technology,12.03.15
+HSIC,Henry Schein,Health Care,17.03.15
+EQIX,Equinix,Real Estate,20.03.15
+AAL,American Airlines Group,Industrials,23.03.15
+O,Realty Income,Real Estate,07.04.15
+QRVO,Qorvo,Information Technology,11.06.15
+JBHT,J.B. Hunt,Industrials,01.07.15
+KHC,Kraft Heinz,Consumer Staples,06.07.15
+AAP,Advance Auto Parts,Consumer Discretionary,09.07.15
+PYPL,PayPal,Information Technology,20.07.15
+ATVI,Activision Blizzard,Communication Services,31.08.15
+UAL,United Airlines,Industrials,03.09.15
+FOX,Fox Corporation (Class B),Communication Services,18.09.15
+NWS,News Corp (Class B),Communication Services,18.09.15
+VRSK,Verisk,Industrials,08.10.15
+HPE,Hewlett Packard Enterprise,Information Technology,02.11.15
+SYF,Synchrony,Financials,18.11.15
+ILMN,Illumina,Health Care,19.11.15
+CHD,Church & Dwight,Consumer Staples,29.12.15
+WTW,Willis Towers Watson,Financials,05.01.16
+EXR,Extra Space Storage,Real Estate,19.01.16
+CFG,Citizens,Financials,29.01.16
+FRT,Federal Realty,Real Estate,01.02.16
+AWK,American Water,Utilities,04.03.16
+UDR,UDR,Real Estate,07.03.16
+CNC,Centene,Health Care,30.03.16
+HOLX,Hologic,Health Care,30.03.16
+UA,Under Armour (Class C),Consumer Discretionary,08.04.16
+ULTA,Ulta Beauty,Consumer Discretionary,18.04.16
+GPN,Global Payments,Information Technology,25.04.16
+ALK,Alaska Air Group,Industrials,13.05.16
+DLR,Digital Realty,Real Estate,18.05.16
+LKQ,LKQ Corporation,Consumer Discretionary,23.05.16
+AJG,Gallagher,Financials,31.05.16
+TDG,TransDigm,Industrials,03.06.16
+FBHS,Fortune Brands,Industrials,22.06.16
+ALB,Albemarle,Materials,01.07.16
+LNT,Alliant Energy,Utilities,01.07.16
+FTV,Fortive,Industrials,01.07.16
+MTD,Mettler Toledo,Health Care,06.09.16
+CHTR,Charter Communications,Communication Services,08.09.16
+COO,CooperCompanies,Health Care,23.09.16
+MAA,Mid-America Apartments,Real Estate,02.12.16
+IDXX,Idexx Laboratories,Health Care,05.01.17
+INCY,Incyte,Health Care,28.02.17
+CBOE,Cboe,Financials,01.03.17
+REG,Regency Centers,Real Estate,02.03.17
+DISH,Dish,Communication Services,13.03.17
+SNPS,Synopsys,Information Technology,16.03.17
+ARE,Alexandria,Real Estate,20.03.17
+RJF,Raymond James,Financials,20.03.17
+DXC,DXC Technology,Information Technology,04.04.17
+IT,Gartner,Information Technology,05.04.17
+ALGN,Align,Health Care,19.06.17
+ANSS,Ansys,Information Technology,19.06.17
+RE,Everest,Financials,19.06.17
+HLT,Hilton,Consumer Discretionary,19.06.17
+BKR,Baker Hughes,Energy,07.07.17
+AOS,A. O. Smith,Industrials,26.07.17
+DRE,Duke Realty,Real Estate,26.07.17
+MGM,MGM Resorts,Consumer Discretionary,26.07.17
+PKG,Packaging Corporation of America,Materials,26.07.17
+RMD,ResMed,Health Care,26.07.17
+IQV,IQVIA,Health Care,29.08.17
+SBAC,SBA Communications,Real Estate,01.09.17
+CDNS,Cadence,Information Technology,18.09.17
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,13.10.17
+HII,Huntington Ingalls Industries,Industrials,03.01.18
+IPGP,IPG Photonics,Information Technology,07.03.18
+SIVB,SVB Financial,Financials,19.03.18
+TTWO,Take-Two Interactive,Communication Services,19.03.18
+MSCI,MSCI,Financials,04.04.18
+ABMD,Abiomed,Health Care,31.05.18
+EVRG,Evergy,Utilities,05.06.18
+TWTR,Twitter,Communication Services,07.06.18
+BR,Broadridge,Information Technology,18.06.18
+FLT,Fleetcor,Information Technology,20.06.18
+CPRT,Copart,Industrials,02.07.18
+ANET,Arista,Information Technology,28.08.18
+ROL,Rollins,Industrials,01.10.18
+FTNT,Fortinet,Information Technology,11.10.18
+KEYS,Keysight,Information Technology,06.11.18
+JKHY,Jack Henry & Associates,Information Technology,13.11.18
+FANG,Diamondback,Energy,03.12.18
+LW,Lamb Weston,Consumer Staples,03.12.18
+CE,Celanese,Materials,24.12.18
+FRC,First Republic,Financials,02.01.19
+TFX,Teleflex,Health Care,18.01.19
+ATO,Atmos Energy,Utilities,15.02.19
+WAB,Wabtec,Industrials,27.02.19
+DOW,Dow,Materials,01.04.19
+DD,DuPont,Materials,02.04.19
+CTVA,Corteva,Materials,03.06.19
+AMCR,Amcor,Materials,07.06.19
+MKTX,MarketAxess,Financials,01.07.19
+TMUS,T-Mobile,Communication Services,15.07.19
+IEX,IDEX,Industrials,09.08.19
+LDOS,Leidos,Industrials,09.08.19
+CDW,CDW,Information Technology,23.09.19
+NVR,NVR,Consumer Discretionary,26.09.19
+LVS,Las Vegas Sands,Consumer Discretionary,03.10.19
+NOW,ServiceNow,Information Technology,21.11.19
+WRB,Berkley,Financials,05.12.19
+ODFL,Old Dominion,Industrials,09.12.19
+LYV,Live Nation Entertainment,Communication Services,23.12.19
+STE,Steris,Health Care,23.12.19
+ZBRA,Zebra,Information Technology,23.12.19
+PAYC,Paycom,Information Technology,28.01.20
+IR,Ingersoll Rand,Industrials,03.03.20
+CARR,Carrier,Industrials,03.04.20
+OTIS,Otis,Industrials,03.04.20
+DXCM,DexCom,Health Care,12.05.20
+DPZ,Domino's,Consumer Discretionary,12.05.20
+WST,West Pharmaceutical Services,Health Care,22.05.20
+BIO,Bio-Rad,Health Care,22.06.20
+TDY,Teledyne,Industrials,22.06.20
+TYL,Tyler Technologies,Information Technology,22.06.20
+CTLT,Catalent,Health Care,21.09.20
+ETSY,Etsy,Consumer Discretionary,21.09.20
+TER,Teradyne,Information Technology,21.09.20
+POOL,Pool Corporation,Consumer Discretionary,07.10.20
+TSLA,Tesla,Consumer Discretionary,21.12.20
+ENPH,Enphase,Information Technology,07.01.21
+TRMB,Trimble,Information Technology,21.01.21
+MPWR,Monolithic Power Systems,Information Technology,12.02.21
+CZR,Caesars Entertainment,Consumer Discretionary,22.03.21
+GNRC,Generac,Industrials,22.03.21
+NXPI,NXP,Information Technology,22.03.21
+PENN,Penn National Gaming,Consumer Discretionary,22.03.21
+PTC,PTC,Information Technology,20.04.21
+CRL,Charles River,Health Care,14.05.21
+OGN,Organon,Health Care,03.06.21
+MRNA,Moderna,Health Care,21.07.21
+TECH,Bio-Techne,Health Care,30.08.21
+BRO,Brown & Brown,Financials,20.09.21
+CDAY,Ceridian,Information Technology,20.09.21
+MTCH,Match Group,Communication Services,20.09.21
+EPAM,EPAM,Information Technology,14.12.21
+FDS,FactSet,Financials,20.12.21
+SBNY,Signature Bank,Financials,20.12.21
+SEDG,SolarEdge,Information Technology,20.12.21
+CEG,Constellation Energy,Utilities,02.02.22
+NDSN,Nordson,Industrials,15.02.22
+MOH,Molina Healthcare,Health Care,02.03.22
+CPT,Camden,Real Estate,04.04.22
+WBD,Warner Bros. Discovery,Communication Services,11.04.22
+VICI,Vici,Real Estate,08.06.22

@@ -1,0 +1,81 @@
+===Input parameters===
+Ticker: WMT
+Learning rate: 0.01
+Neutral range: 0.0005
+Sequence size: 50
+Batch size: 100
+LSTM hidden dimensions: 30
+Training epochs: 100
+======================
+Processing 1d return for ticker WMT.
+epoch 0: train - 0.6269, val: - 0.0102
+epoch 10: train - 0.1123, val: - 0.0092
+epoch 20: train - 0.1117, val: - 0.009
+epoch 30: train - 0.112, val: - 0.009
+epoch 40: train - 0.112, val: - 0.009
+epoch 50: train - 0.112, val: - 0.009
+epoch 60: train - 0.112, val: - 0.009
+epoch 70: train - 0.1119, val: - 0.009
+epoch 80: train - 0.1118, val: - 0.009
+epoch 90: train - 0.1117, val: - 0.009
+Processing 5d return for ticker WMT.
+epoch 0: train - 1.6172, val: - 0.0186
+epoch 10: train - 0.084, val: - 0.0063
+epoch 20: train - 0.0814, val: - 0.0063
+epoch 30: train - 0.0794, val: - 0.006
+epoch 40: train - 0.0729, val: - 0.0059
+epoch 50: train - 0.0644, val: - 0.0048
+epoch 60: train - 0.0619, val: - 0.0051
+epoch 70: train - 0.0682, val: - 0.0056
+epoch 80: train - 0.0597, val: - 0.0048
+epoch 90: train - 0.0608, val: - 0.0047
+Processing 20d return for ticker WMT.
+epoch 0: train - 1.1219, val: - 0.0218
+epoch 10: train - 0.0574, val: - 0.0046
+epoch 20: train - 0.0504, val: - 0.0042
+epoch 30: train - 0.0507, val: - 0.0043
+epoch 40: train - 0.0509, val: - 0.0042
+epoch 50: train - 0.0509, val: - 0.0042
+epoch 60: train - 0.0509, val: - 0.0042
+epoch 70: train - 0.0509, val: - 0.0042
+epoch 80: train - 0.0508, val: - 0.0041
+epoch 90: train - 0.0506, val: - 0.0041
+
+EVALUATION OF LSTM PREDICTIONS:
+Number of predictions: 400
+Number of correct predictions: 156
+Recommendation accuracy: 0.39
+Number of BUY recommendations: 260
+Number of NEUTRAL recommendations: 68
+Number of SELL recommendations: 72
+Number of correct BUY recommendations: 119
+Number of correct SELL recommendations: 33
+Number of correct NEUTRAL recommendations: 4
+Number of incorrect BUY recommendations (where NEUTRAL would be correct): 18
+Number of incorrect BUY recommendations (where SELL would be correct): 123
+Number of incorrect SELL recommendations (where NEUTRAL would be correct): 4
+Number of incorrect SELL recommendations (where BUY would be correct): 35
+Number of incorrect NEUTRAL recommendations (where BUY would be correct): 37
+Number of incorrect NEUTRAL recommendations (where SELL would be correct): 27
+profit/loss=10.83806914157217%
+
+EVALUATION OF 18 DAY SIMPLE MOVING AVERAGE PREDICTIONS (BENCHMARK):
+Number of predictions: 382
+Number of correct predictions: 176
+Recommendation accuracy: 0.4607329842931937
+Number of BUY recommendations: 198
+Number of NEUTRAL recommendations: 60
+Number of SELL recommendations: 124
+Number of correct BUY recommendations: 106
+Number of correct SELL recommendations: 66
+Number of correct NEUTRAL recommendations: 4
+Number of incorrect BUY recommendations (where NEUTRAL would be correct): 10
+Number of incorrect BUY recommendations (where SELL would be correct): 82
+Number of incorrect SELL recommendations (where NEUTRAL would be correct): 9
+Number of incorrect SELL recommendations (where BUY would be correct): 49
+Number of incorrect NEUTRAL recommendations (where BUY would be correct): 30
+Number of incorrect NEUTRAL recommendations (where SELL would be correct): 26
+profit/loss=127.88585443371888%
+
+CONCLUSION:
+SMA18 beats LSTM for ticker WMT.
